@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-1dotYt-green)](https://github.com/1dotYt)
 
 
-#### [See it Live](t https://1dotyt.github.io/MusicPlaylist/)
+#### [See it Live](https://1dotyt.github.io/MusicPlaylist/)
 
 ## Make your own version :computer:
 
